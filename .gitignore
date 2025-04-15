@@ -1,0 +1,24 @@
+# Java
+*.class
+*.jar
+*.exe
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Build folders
+target/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
