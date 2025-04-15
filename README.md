@@ -11,3 +11,25 @@ You just need to enter:
 - The number of repetitions you performed
 
 The application will instantly calculate your estimated 1RM using the Epley formula:
+
+
+You only need to enter:
+- The weight lifted (in kg)
+- The number of repetitions completed
+
+Then, you'll instantly get your estimated maximum strength 💪
+
+## ✨ Features
+
+- ✅ Real-time calculation
+- ✅ Simple and lightweight interface
+- ✅ Exported as `RMCalculator.exe` for Windows
+- ✅ Built with Java and Swing
+
+## 📷 Screenshot
+
+![image](https://github.com/user-attachments/assets/213eb59e-8359-48e0-91d2-f5b4ca1f08f2)
+
+
+## 📁 Project Structure
+
