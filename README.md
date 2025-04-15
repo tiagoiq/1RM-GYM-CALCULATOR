@@ -11,7 +11,7 @@ You just need to enter:
 - The number of repetitions you performed
 
 The application will instantly calculate your estimated 1RM using the Epley formula:
-
+1RM = (Peso levantado * 0,033 * repeticiones al fallo) + Peso levantado.
 
 You only need to enter:
 - The weight lifted (in kg)
