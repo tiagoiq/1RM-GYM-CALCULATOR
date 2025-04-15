@@ -1,2 +1,13 @@
-# 1RM-GYM-CALCULATOR
-A real-time 1RM (One Rep Max) calculator built in Java. Enter the weight and number of reps you lifted, and instantly find out your estimated max strength using the Epley formula. Simple, fast, and exported as a .exe for Windows. Perfect for gym lovers who want to track their progress accurately.
+# 1RM Calculator - Real Time Gym Strength Estimator
+
+This is a desktop application developed in Java that allows you to calculate your estimated 1 Rep Max (1RM) in real time at the gym.
+
+## What is 1RM?
+1RM stands for "One Repetition Maximum" — the maximum weight you can lift for a single repetition of a given exercise.
+
+## How does it work?
+You just need to enter:
+- The weight you lifted (kg)
+- The number of repetitions you performed
+
+The application will instantly calculate your estimated 1RM using the Epley formula:
